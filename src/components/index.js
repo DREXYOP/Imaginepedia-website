@@ -1,7 +1,6 @@
-import Billing from './Billing'
+import Billing from './WhatDoWeDo'
 import Business from './Business'
 import CardDeal from './CardDeal'
-import Clients from './Clients'
 import CTA from './CTA'
 import Feedback from './Feedback'
 import Footer from './Footer'
@@ -14,7 +13,6 @@ export {
     Billing,
     Business,
     CardDeal,
-    Clients,
     CTA,
     Feedback,
     Footer,
